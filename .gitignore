@@ -20,3 +20,4 @@ server.pid
 *.ipr
 .idea/
 *gradle*
+*.g8*
